@@ -1,0 +1,9 @@
+{
+  "exported_at": "2026-07-11T00:23:47",
+  "include": [
+    "flclash-proxy-rules",
+    "skill-improvement-review",
+    "skill-sync-manager",
+    "anime-manager"
+  ]
+}

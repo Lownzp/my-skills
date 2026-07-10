@@ -1,0 +1,4 @@
+interface:
+  display_name: "FlClash Proxy Rules"
+  short_description: "Diagnose proxy routing issues and safely add FlClash rules."
+  default_prompt: "Use $flclash-proxy-rules to diagnose this network issue and, if appropriate, add a safe FlClash proxy rule."

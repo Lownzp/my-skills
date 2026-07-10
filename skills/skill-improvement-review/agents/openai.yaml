@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Improvement Review"
+  short_description: "Review skill usage and suggest evidence-based improvements."
+  default_prompt: "Use $skill-improvement-review to review this skill run and suggest evidence-based improvements."

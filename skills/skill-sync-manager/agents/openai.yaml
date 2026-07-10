@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Sync Manager"
+  short_description: "Selectively inventory, validate, backup, and sync Codex skills."
+  default_prompt: "Use $skill-sync-manager to inventory my skills and plan a selective sync without copying work skills."

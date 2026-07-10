@@ -1,0 +1,4 @@
+interface:
+  display_name: "番剧管理"
+  short_description: "记录番剧偏好、追番状态，并按中日社区口碑推荐"
+  default_prompt: "Use $anime-manager to update my anime preferences and recommend what to watch next."
