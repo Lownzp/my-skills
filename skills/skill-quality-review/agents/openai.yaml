@@ -1,0 +1,4 @@
+interface:
+  display_name: "Is This a Good Skill?"
+  short_description: "Evaluate agent skill quality and reliability"
+  default_prompt: "Use $skill-quality-review to evaluate whether this skill is well designed and propose prioritized improvements."
